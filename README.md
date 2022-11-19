@@ -1,4 +1,16 @@
-cd service
-npm start
+- go to service dir
+```
+cd service<br/>
+```
 
-to stop: npm run stop
+- to start socket service
+```
+npm start
+```
+&nbsp;&nbsp;socket server will run on port 3232<br/>
+&nbsp;&nbsp;socket client api run on port 3233
+
+- stop socket service
+```
+npm run stop
+```
