@@ -1,6 +1,6 @@
 - go to service dir
 ```
-cd service<br/>
+cd service
 ```
 
 - to start socket service
